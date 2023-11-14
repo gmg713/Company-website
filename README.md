@@ -1,7 +1,13 @@
 # Company-website
-Challenge Project: Company Home Page with Flexbox - Codeacademy
 
+VC Enterprise Portfolio
 
-Project Goals:
+Description:
+This repository houses the code for the VC Enterprise Portfolio website, a platform dedicated to showcasing the VC Experience in the field of mobility investments. The website comprises various sections, including a mission statement, a portfolio display featuring impactful projects in the mobility sector, details about the investment team, and contact information.
 
-In this project, you’ll be using flexbox to design and build the layout for a company’s homepage. You can choose to build a new homepage for an existing company or imagine your own dream company! 
+Features:
+Responsive Design: The website ensures a seamless experience across different devices.
+Navigation: Users can easily navigate through sections such as the mission statement, portfolio, and investment team.
+Portfolio Showcase: Highlighting various projects in the mobility sector with accompanying images and project names.
+Team Information: Providing insights into key team members, including images and roles.
+Contact Information: Inclusion of contact details and links to social media for easy communication.
